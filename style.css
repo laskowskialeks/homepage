@@ -1,6 +1,16 @@
 body {
-    background-color: #fefefe;
+  background-color: #fefefe;
 }
-h2 {
-   color: #1460AA;
+.photo {
+  width: 350px;
+}
+.h1 {
+  font-size: 35px;
+}
+.h2 {
+  color: #1460aa;
+}
+.h3 {
+  text-decoration: underline;
+  text-decoration-color: #07a75f;
 }
